@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28/09/25
+## Register Number:25011612
+## Name:Harshini.J
 ## Problem Title
 SIH 25010: Smart Crop Advisory System for Small and Marginal Farmers
 ## Problem Description
@@ -41,28 +41,42 @@ Government of Punjab
 Agriculture, FoodTech & Rural Development
 
 ## Proposed Solution
-<h3>Remove These Lines</h3>
-<ul><li>Detailed explanation of the proposed solution</li>
-<li>How it addresses the problem</li>
-<li>Innovation and uniqueness of the solution</li></ul>
+<h3>Smart farming,Strong villages</h3>
+<ol><li>Real time soil</li>
+<li>weather monitoring</li>
+<li>farm management</li>
+<li>digital marketplace<li>
+<li>drone & aerial surveliance</li>
+<li>ecofriendly practices</ol><li>
+
 
 ## Technical Approach
-<h3>Remove These Lines</h3>
-<ul><li>Technologies to be used (e.g. programming languages, frameworks, hardware)
-</li>
-<li>Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b></li></ul>
+<h3>Smart soil</h3>
+<ol><li>Technical approach are used for languages such as(Python,c++,arduino)</li>
+<li>data management languages are used for(SQL,NoSQL,MongoDB,firebase)</li>
+<li>data ai models languages are used for python(pandas,Numpy,scikit-learn)</li>
+<li>Mobile applications languages are used for(Java,swift[iOS],javascript)</li>
+<li>Visualization languages are used for (Python,Javascript)</ol></li>
+![alt text](SIH.png)
+
+
 
 ## Feasibility and Viability
-<h3>Remove These Lines</h3>
-<ul><li>Analysis of the feasibility of the idea</li>
-<li>Potential challenges and risks</li>
-<li>Strategies for overcoming these challenges</li></ul>
+<h3>Viability insights</h3>
+<ol><li>Sustainable use of water,soil,and energy resourses</li>
+<li>Potential for higher yield and better farmer income</li>
+<li>improvement in community well being,literacy and employment</li>
+<li>expand the solutions across multiple villages and regions</ol></li>
 
 ## Impact and Benefits
-<h3>Remove These Lines</h3>
-<ul><li>Potential impact on the target audience</li>
-<li>Benefits of the solution (social, economic, environmental, etc.)</li></ul>
+<h3>efficient use of water,fertilizers and energy</h3>
+<ol><li>Sensors and ai help detect issues before they spread</li>
+<li>farmers can plan sowing,harvesting and sales based on real time data</li>
+<li>Monitoring ensures healthier,pest free,and high nutrition crops</ol></li>
 
 ## Research and References
-<h3>Remove These Lines</h3>
-<ul><li>Details / Links of the reference and research work</li></ul>
+<h3>Scholarly foundations</h3>
+<ol><li>https://m.farms.com/agriculture-apps/</li>
+<li>Informed by global studies,tailored to local<li>
+<li>grounding in reasearch designed for real world impact</li>
+<li> a foundation of scholarly rigor supporting every technical</ol></li>
