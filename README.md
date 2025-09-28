@@ -45,7 +45,7 @@ Agriculture, FoodTech & Rural Development
 <ol><li>Real time soil</li>
 <li>weather monitoring</li>
 <li>farm management</li>
-<li>digital marketplace<li>
+<li>digital marketplace</li>
 <li>drone & aerial surveliance</li>
 <li>ecofriendly practices</ol><li>
 
@@ -57,8 +57,8 @@ Agriculture, FoodTech & Rural Development
 <li>data ai models languages are used for python(pandas,Numpy,scikit-learn)</li>
 <li>Mobile applications languages are used for(Java,swift[iOS],javascript)</li>
 <li>Visualization languages are used for (Python,Javascript)</ol></li>
-![alt text](SIH.png)
 
+![alt text](<Screenshot 2025-09-28 224008.png>)
 
 
 ## Feasibility and Viability
@@ -77,6 +77,7 @@ Agriculture, FoodTech & Rural Development
 ## Research and References
 <h3>Scholarly foundations</h3>
 <ol><li>https://m.farms.com/agriculture-apps/</li>
-<li>Informed by global studies,tailored to local<li>
+<li>Informed by global studies,tailored to local</li>
+<li>transparent tracking of produce farm to market</li>
 <li>grounding in reasearch designed for real world impact</li>
 <li> a foundation of scholarly rigor supporting every technical</ol></li>
